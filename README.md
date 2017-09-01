@@ -6,3 +6,6 @@ In this lab, I created a version of the Simon Game. The Game's starting state wa
 In this game the only rule is that the user needs to follow the onscreen instructions. When the system is ready to recieve the user's input data, a message on the LCD screen will appear saying "waiting for input: ".
 
 To succesfully implement the Simon game I had to utilize the IEEE kit that included an atmega 1284, an LCD screen, a 5V power supply, 4 buttons and an LED bar. To program the atmel chip I used the atmel studio included with the purchase of the processor. In order to randomize the LED sequences I used an XOR32 shift from wikipedia. http://www.arklyffe.com/main/2010/08/29/xorshift-pseudorandom-number-generator/ https://en.wikipedia.org/wiki/Xorshift
+
+
+Link to video: https://drive.google.com/open?id=0B_ErRPw3DNh2Si1ZX0VVaVhXMFE
